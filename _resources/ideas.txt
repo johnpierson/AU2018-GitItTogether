@@ -1,0 +1,2 @@
+Family category getter
+https://forum.dynamobim.com/t/possible-to-force-open-a-file-which-says-it-corrupted/27337/8

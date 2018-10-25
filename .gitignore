@@ -1,0 +1,9 @@
+# Sample Dynamo Graph Repo ignore template
+
+### Dynamo ###
+# Video Files
+*.tscproj
+*.trec
+
+
+# End of Sample Dynamo Graph Repo ignore template
