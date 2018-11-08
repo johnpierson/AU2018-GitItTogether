@@ -11,3 +11,6 @@ Presenter - John Pierson of [ParallaxTeam](http://www.parallaxteam.com/) and [si
 
 # Directory
 _to fill out with directory info when complete_
+
+# Resources that I found Interesting:
+https://github.com/tiimgreen/github-cheat-sheet
