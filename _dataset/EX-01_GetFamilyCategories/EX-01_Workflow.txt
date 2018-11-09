@@ -1,0 +1,4 @@
+1. Show RFA on github as RAW text.
+2. We can exploit that and obtain some data from it with Dynamo.
+3. Build the graph and show it in action.
+4. Then upgrade to Dynamo 2.0.

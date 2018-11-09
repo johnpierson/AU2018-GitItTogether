@@ -4,6 +4,6 @@
 # Video Files
 *.tscproj
 *.trec
-
+*.svg
 
 # End of Sample Dynamo Graph Repo ignore template
